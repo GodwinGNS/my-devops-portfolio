@@ -1,7 +1,1 @@
-#!/bin/bash
 
-mkdir file
-
-cd file
-
-touch me_1 me_2
